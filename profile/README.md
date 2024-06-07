@@ -31,7 +31,7 @@ For inquiries or more information about our services, please reach out to us at:
 - 📧 Email: [info@globalcloudmedia.lk](mailto:info@globalcloudmedia.lk)
 - 📞 Phone: 0112 160 328
 
-Stay connected with us through our [GitHub](https://github.com/GlobalCloudMedia) and other social media channels.
+Stay connected with us through our [GitHub](https://github.com/Global-Cloud-Media-Pvt-Ltd) and other social media channels.
 
 ---
 

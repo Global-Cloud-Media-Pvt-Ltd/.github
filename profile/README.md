@@ -1,8 +1,15 @@
 # 🌐 Global Cloud Media
 
-<img alt="" src="https://img.shields.io/badge/InnovateWithUs">
-
 Welcome to **Global Cloud Media's** GitHub Pages!
+
+![InnovateWithUs](https://img.shields.io/badge/InnovateWithUs-orange)
+![TechSolutions](https://img.shields.io/badge/TechSolutions-blue)
+![DigitalTransformation](https://img.shields.io/badge/DigitalTransformation-green)
+![FutureOfTech](https://img.shields.io/badge/FutureOfTech-purple)
+![WebDevExperts](https://img.shields.io/badge/WebDevExperts-darkgrey)
+![SoftwareInnovation](https://img.shields.io/badge/SoftwareInnovation-lightgrey)
+![UIUXDesign](https://img.shields.io/badge/UIUXDesign-teal)
+![ITStrategyExperts](https://img.shields.io/badge/ITStrategyExperts-navyblue)
 
 ## 🎯 Mission Statement
 

@@ -1,6 +1,6 @@
 # 🌐 Global Cloud Media
 
-[](https://img.shields.io/badge/#InnovateWithUs)
+<img alt="" src="https://img.shields.io/badge/InnovateWithUs">
 
 Welcome to **Global Cloud Media's** GitHub Pages!
 

@@ -17,7 +17,11 @@ Welcome to **Global Cloud Media's** GitHub Pages!
 
 ## 🏢 About Us
 
-**Global Cloud Media** is a medium privately-owned company based in Colombo Sri Lanka, Haritha Rathnayake, founder and owner of Global Cloud Media (Pvt) Ltd, is an experienced web developer and programmer with over 6+ years spent in the industry. He and his small team of designers, programmers have been providing their talents and services to companies across the country since 2017.
+**Global Cloud Media** is a distinguished software development company headquartered in Colombo, Sri Lanka. Founded by Haritha Rathnayake in 2017, Global Cloud Media (Pvt) Ltd has rapidly grown into a reputable provider of cutting-edge digital solutions.
+
+Haritha Rathnayake, our founder and owner, brings over 6 years of industry experience as a seasoned web developer and programmer. Under his leadership, our team of skilled designers and developers has been delivering exceptional services to enterprises nationwide.
+
+At Global Cloud Media, we pride ourselves on our ability to tackle complex technological challenges and drive digital transformation for our clients. Our commitment to innovation and excellence ensures that we remain at the forefront of the ever-evolving tech landscape.
 
 ## 🚀 Services
 

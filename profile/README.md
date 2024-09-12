@@ -19,9 +19,15 @@ Welcome to **Global Cloud Media's** GitHub Pages!
 
 **Global Cloud Media** is a distinguished software development company headquartered in Colombo, Sri Lanka. Founded by Haritha Rathnayake in 2017, Global Cloud Media (Pvt) Ltd has rapidly grown into a reputable provider of cutting-edge digital solutions.
 
-Haritha Rathnayake, our founder and owner, brings over 6 years of industry experience as a seasoned web developer and programmer. Under his leadership, our team of skilled designers and developers has been delivering exceptional services to enterprises nationwide.
+At Global Cloud Media Pvt. Ltd., we are a dynamic digital solutions provider, helping businesses scale through cutting-edge technology and strategic innovation. Specializing in Web Design, E-commerce Solutions, Software Development, Mobile App Development, Search Engine Optimization (SEO), and IT Security Solutions, we transform ideas into robust digital experiences.
 
-At Global Cloud Media, we pride ourselves on our ability to tackle complex technological challenges and drive digital transformation for our clients. Our commitment to innovation and excellence ensures that we remain at the forefront of the ever-evolving tech landscape.
+Our approach is client-centric, tailoring solutions to meet the unique needs of businesses across industries. From designing visually stunning websites to building seamless e-commerce platforms that drive sales, we focus on delivering results that matter. Whether it’s creating a custom mobile app or developing enterprise-level software, our team is equipped with the expertise to make your digital vision a reality.
+
+In the fast-paced digital world, visibility is key. Our SEO strategies ensure that your business stands out in search rankings, driving organic traffic and enhancing your brand presence. We also prioritize IT Security, implementing best-in-class security protocols to protect your digital assets and data from ever-evolving cyber threats.
+
+At Global Cloud Media Pvt. Ltd., innovation meets functionality. We don’t just build digital solutions; we create scalable, future-proof platforms that empower businesses to thrive in an increasingly competitive marketplace.
+
+Join us in shaping the future of technology, where design meets performance, and security meets growth.
 
 ## 🚀 Services
 
